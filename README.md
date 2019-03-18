@@ -7,9 +7,9 @@ We were trying to control game action by mind wave using the neurosky headset. T
 
 
 Team Member:
-Jianing Zhang
-Yinhe Lu
-Huixuan Tan
+Jianing Zhang,
+Yinhe Lu,
+Huixuan Tan,
 Xiaoxun Zhu
 
 
