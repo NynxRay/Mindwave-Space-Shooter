@@ -1,4 +1,4 @@
-# Mindwave-Space-Shooter
+# Mindwave-Space-Shooter ( Old)
 Our project can control game action by mind wave using the neurosky headset. The game we use is Space Shooter. 
 
 Playing video games can boost creativity, improve problem-solving skills, and cultivate teamwork. People with disabilities, however, have limited opportunities to enjoy video games: those with visual challenges may not be able to participate in games that are rich in graphics, and those with mobility challenges may not be able to use a standard game controller. Our first motivation is to Make it convenient for people with disabilities to play games. Around 92% people with impairments play games despite difficulties. The ultimate goal is to Increase video game accessibility for disabilities.
